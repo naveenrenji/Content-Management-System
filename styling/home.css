@@ -1,0 +1,28 @@
+h1   
+{
+  color: white;
+  font-weight: bold;
+  font-family: Impact, Charcoal, sans-serif;
+  font-size: 40px;
+  padding: 15px;
+}
+
+body 
+{  margin:0;
+    font-family:  Apple Chancery, cursive;
+
+    background: #fffbd5;  
+    background: -webkit-linear-gradient(to right, #4169E1, #87CEFA);  
+    background: linear-gradient(to right, #4169E1, #87CEFA); 
+    
+}
+
+.container{
+  width: 500px;
+  margin:100px auto;
+}
+
+#img{
+  width:100%;
+  height:100%
+}
